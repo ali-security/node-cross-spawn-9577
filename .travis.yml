@@ -1,6 +1,7 @@
 language: node_js
 node_js:
-  - '0.10'
+  - '6'
   - '0.12'
   - '4'
-  - '6'
+  - '0.10'
+dist: precise
